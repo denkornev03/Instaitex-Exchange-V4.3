@@ -1,0 +1,5 @@
+{
+  "name": "Instaitex Exchange V4.3",
+  "description": "A simulated cryptocurrency exchange dashboard with real-time volatility simulation, admin controls, and portfolio management.",
+  "requestFramePermissions": []
+}
